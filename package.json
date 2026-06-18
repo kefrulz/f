@@ -1,11 +1,12 @@
 {
   "name": "f",
   "appName": "FunBets",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "FunBets Arcade for TizenBrew",
   "packageType": "mods",
   "websiteURL": "https://cas.oqyb-drtbrt-aux2.online/tv/",
   "main": "index.js",
+  "serviceFile": "service.js",
   "keys": [
     "ArrowLeft",
     "ArrowRight",
