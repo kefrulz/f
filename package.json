@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "FunBets Arcade for TizenBrew",
   "packageType": "mods",
-  "websiteURL": "https://cas.oqyb-drtbrt-aux2.online/?tv=1&app=tizenbrew",
+  "websiteURL": "https://cas.oqyb-drtbrt-aux2.online/tv",
   "main": "index.js",
   "keys": [
     "ArrowLeft",
