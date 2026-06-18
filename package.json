@@ -1,24 +1,11 @@
 {
   "name": "f",
   "appName": "FunBets",
-  "version": "3.0.0",
-  "description": "FunBets Arcade for TizenBrew",
+  "version": "4.0.0",
+  "description": "Open FunBets Arcade in TizenBrew",
   "packageType": "mods",
   "websiteURL": "https://cas.oqyb-drtbrt-aux2.online/tv/",
-  "main": "index.js",
-  "serviceFile": "service.js",
-  "keys": [
-    "ArrowLeft",
-    "ArrowRight",
-    "ArrowUp",
-    "ArrowDown",
-    "Enter",
-    "Return",
-    "Exit",
-    "ColorF0Red",
-    "ColorF3Blue"
-  ],
-  "evaluateScriptOnDocumentStart": false,
+  "keys": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/kefrulz/f"
